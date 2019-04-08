@@ -1,0 +1,7 @@
+NOTE : Je n'ai pas réussi à importer mes fichier tools et action pour simplifier la lecture du code.
+
+Question 1 : 
+Je fais en sorte que les deux joueurs tire vers le camps adverse.
+
+Question 2 :
+Je fais en sorte de diviser la partie adverse en deux parts, une partie haute et une partie basse. Si le joueur adverse est dans la partie haute, mon joueur tie la balle dans la partie basse et inversement.
